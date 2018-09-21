@@ -30,3 +30,6 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+[Official Docs - Slots](http://vuejs.org/guide/components.html#Content-Distribution-with-Slots)
+[Official Docs - Dynamic Components](http://vuejs.org/guide/components.html#Dynamic-Components)
+[Official Docs - Misc](http://vuejs.org/guide/components.html#Misc)
